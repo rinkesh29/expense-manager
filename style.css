@@ -1,0 +1,85 @@
+/* Page Style */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(100deg, #b3c3ff, #086661bb);
+    min-height:100vh;
+    margin:0;
+    padding:0;
+}
+
+/* Center Container */
+.container{
+    width:400px;
+    margin:50px auto;
+    background:rgba(20, 124, 93, 0.788);
+    padding:25px;
+    border-radius:8px;
+    box-shadow:0 0 10px rgb(64, 173, 236);
+}
+
+/* Headings */
+h2{
+    text-align:center;
+    color:#f4fcffc4;
+}
+
+/* Inputs */
+input{
+    width:100%;
+    padding:10px;
+    margin-top:5px;
+    margin-bottom:15px;
+    border:1px solid #5633f5;
+    border-radius:5px;
+}
+
+/* Buttons */
+button{
+    width:100%;
+    padding:10px;
+    background:#0b1a0c;
+    color:rgb(135, 143, 28);
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+button:hover{
+    background:#9fd9ff;
+}
+
+/* Links */
+a{
+    text-decoration:none;
+    color:#1b0c02dc;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+/* Table Style */
+table{
+    width:80%;
+    margin:20px auto;
+    border-collapse:collapse;
+    background:rgb(146, 212, 255);
+}
+
+th, td{
+    padding:10px;
+    border:1px solid #f70000;
+    text-align:center;
+}
+
+th{
+    background:#98ffcf86;
+    color:rgb(165, 106, 106);
+}
+
+/* Total */
+h3{
+    text-align:center;
+    color:#000000e5;
+}
