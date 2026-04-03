@@ -30,6 +30,15 @@ if(isset($_POST['add_multiple'])){
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z63CMZ9Y88"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z63CMZ9Y88');
+</script>
     <title>Add Multiple Expenses</title>
     <link rel="stylesheet" href="style.css">
 </head>
