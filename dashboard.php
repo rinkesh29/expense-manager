@@ -27,6 +27,7 @@ $total = 0;
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="google-site-verification" content="wlGgcG-tvn_x2CxHrllcfaTgck6Wn5jOgQhNiu83EKA" />
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z63CMZ9Y88"></script>
 <script>
